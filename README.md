@@ -15,7 +15,7 @@ I'm learning Data Science and Generative AI through practical projects and hands
 - Generative AI
 
 ### Projects
-- **Diabetes Exploratory Data Analysis (EDA):** Data analysis using Python and Jupyter Notebook.
+- **[Diabetes Exploratory Data Analysis (EDA)](./aug_diabetes_eda.ipynb):** Data analysis using Python and Jupyter Notebook.
 
 ### My Goal
 To become a Data Scientist by building strong analytical, programming, and problem-solving skills.
